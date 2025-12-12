@@ -1,16 +1,3 @@
-```wizard
-        ^
-       /☄\
-      /☼★☆\
-     /☆☼⚧★☽\
-------------------
- %&/ _     _ \@&
- o8|   ov    |8o
- Qo|     3   |9P
- gB\_________/cB
- q%            P%
-```
-
 Space wizard in-training
 
 Enthusiastic about:
