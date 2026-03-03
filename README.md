@@ -7,10 +7,9 @@ Enthusiastic about:
 - Rust
 - The stars
 - Using lessons from the computing space elsewhere in my life
-- Feeling pretty
 
 Repos:
 
-- [My personal dotfiles, configuring every aspect of my system](https://github.com/internetwiz4rd/dotfiles)
+- [My personal dotfiles, configuring every aspect of my system](https://github.com/of-the-stars/dotfiles)
   - Everything's (mostly) reproducable using Nix
-  - Included is my Neovim config, which you can try out using `nix run 'github:internetwiz4rd/dotfiles?dir=.config/nvim'`!!
+  - Included is my Neovim config, which you can try out using `nix run 'github:of-the-stars/dotfiles?dir=.config/nvim'`!!
